@@ -1,0 +1,7 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Tiki mask
+Author: Maximilian Maroe
+URL: https://poly.google.com/view/bNcpGlsrOUP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
