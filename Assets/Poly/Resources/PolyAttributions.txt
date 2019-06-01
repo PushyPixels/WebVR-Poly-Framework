@@ -1,7 +1,19 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: studded tribal mask
+Author: Maximilian Maroe
+URL: https://poly.google.com/view/bHGtF5O_lrH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Tiki mask
 Author: Maximilian Maroe
 URL: https://poly.google.com/view/bNcpGlsrOUP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: undersea grove
+Author: Maximilian Maroe
+URL: https://poly.google.com/view/at5mzByqVX2
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
